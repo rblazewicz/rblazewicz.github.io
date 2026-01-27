@@ -1,7 +1,7 @@
 **Polityka Prywatności aplikacji Winner's Draw**
 
 **1. Wstęp**
-Niniejsza polityka prywatności określa zasady przetwarzania danych w aplikacji mobilnej [Nazwa Aplikacji] (dalej: "Aplikacja"). Szanujemy prywatność użytkowników i dbamy o bezpieczeństwo ich danych.
+Niniejsza polityka prywatności określa zasady przetwarzania danych w aplikacji mobilnej Winner's Draw (dalej: "Aplikacja"). Szanujemy prywatność użytkowników i dbamy o bezpieczeństwo ich danych.
 
 **2. Uprawnienia i dostęp do funkcji urządzenia**
 Aplikacja wymaga dostępu do aparatu fotograficznego (uprawnienie `android.permission.CAMERA`).
@@ -21,7 +21,7 @@ Aplikacja nie tworzy trwałej bazy danych zdjęć w chmurze. Zdjęcia wykonane p
 Aplikacja nie udostępnia automatycznie żadnych danych. Użytkownik może dobrowolnie skorzystać z systemowej funkcji "Udostępnij" (Share), aby wysłać wylosowane zdjęcie za pomocą innych aplikacji (np. komunikatorów, mediów społecznościowych). Działanie to jest inicjowane i kontrolowane w 100% przez Użytkownika.
 
 **6. Kontakt**
-W razie pytań dotyczących niniejszej polityki prywatności, prosimy o kontakt pod adresem e-mail: [Twój adres e-mail, np. pomoc@twojadomena.pl].
+W razie pytań dotyczących niniejszej polityki prywatności, prosimy o kontakt z autorem.
 
 **7. Zmiany w polityce prywatności**
 Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej polityce prywatności poprzez aktualizację tej strony.
