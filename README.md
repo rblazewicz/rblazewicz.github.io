@@ -16,3 +16,6 @@ Winner's Draw is a fun and interactive way to settle disputes or pick a lucky wi
 3.  **Spin the Wheel:** Once you have your cards, press the **Draw** button.
 4.  **The Reveal:** Watch the 3D animation spin through the options. The winner will be highlighted with a fanfare!
 5.  **Share:** Click the **Share** button to send an image of the winner to your friends or social media.
+
+## Privacy policy
+[Winner's Draw - privacy policy](winners_draw-privacy_policy.md)
